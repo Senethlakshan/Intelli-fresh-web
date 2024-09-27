@@ -1,0 +1,818 @@
+reffer this json hi reffer json again
+
+ "data": [
+        {
+            "id": 1,
+            "attributes": {
+                "createdAt": "2024-08-03T12:27:43.841Z",
+                "updatedAt": "2024-08-04T08:56:18.774Z",
+                "publishedAt": "2024-08-03T12:27:57.361Z",
+                "basicDetails": {
+                    "id": 2,
+                    "Pkgtype": "multiday ",
+                    "duration": "3 months",
+                    "title": "sri lnaka 3 days travel  kandy ",
+                    "description": "best destination travel location kandy sri lanka",
+                    "PkgCoverPhoto": {
+                        "id": 2,
+                        "CoverPhoto": {
+                            "data": {
+                                "id": 2,
+                                "attributes": {
+                                    "name": "bg_5.jpg",
+                                    "alternativeText": null,
+                                    "caption": null,
+                                    "width": 2000,
+                                    "height": 1374,
+                                    "formats": {
+                                        "large": {
+                                            "ext": ".jpg",
+                                            "url": "/uploads/large_bg_5_1dc01f6a26.jpg",
+                                            "hash": "large_bg_5_1dc01f6a26",
+                                            "mime": "image/jpeg",
+                                            "name": "large_bg_5.jpg",
+                                            "path": null,
+                                            "size": 195.85,
+                                            "width": 1000,
+                                            "height": 687,
+                                            "sizeInBytes": 195854
+                                        },
+                                        "small": {
+                                            "ext": ".jpg",
+                                            "url": "/uploads/small_bg_5_1dc01f6a26.jpg",
+                                            "hash": "small_bg_5_1dc01f6a26",
+                                            "mime": "image/jpeg",
+                                            "name": "small_bg_5.jpg",
+                                            "path": null,
+                                            "size": 48.47,
+                                            "width": 500,
+                                            "height": 344,
+                                            "sizeInBytes": 48471
+                                        },
+                                        "medium": {
+                                            "ext": ".jpg",
+                                            "url": "/uploads/medium_bg_5_1dc01f6a26.jpg",
+                                            "hash": "medium_bg_5_1dc01f6a26",
+                                            "mime": "image/jpeg",
+                                            "name": "medium_bg_5.jpg",
+                                            "path": null,
+                                            "size": 111,
+                                            "width": 750,
+                                            "height": 515,
+                                            "sizeInBytes": 110999
+                                        },
+                                        "thumbnail": {
+                                            "ext": ".jpg",
+                                            "url": "/uploads/thumbnail_bg_5_1dc01f6a26.jpg",
+                                            "hash": "thumbnail_bg_5_1dc01f6a26",
+                                            "mime": "image/jpeg",
+                                            "name": "thumbnail_bg_5.jpg",
+                                            "path": null,
+                                            "size": 10.58,
+                                            "width": 227,
+                                            "height": 156,
+                                            "sizeInBytes": 10576
+                                        }
+                                    },
+                                    "hash": "bg_5_1dc01f6a26",
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "size": 788.42,
+                                    "url": "/uploads/bg_5_1dc01f6a26.jpg",
+                                    "previewUrl": null,
+                                    "provider": "local",
+                                    "provider_metadata": null,
+                                    "createdAt": "2024-07-31T06:17:26.559Z",
+                                    "updatedAt": "2024-08-02T06:11:02.256Z"
+                                }
+                            }
+                        }
+                    }
+                },
+                "itinerarySide": [
+                    {
+                        "id": 3,
+                        "day": "day 1",
+                        "location": "Colombo",
+                        "description": "Arrival and check-in at the hotel. Explore the city in the evening.",
+                        "travelTime": "2 hour",
+                        "activities": [
+                            {
+                                "id": 4,
+                                "ActivityItem": "City Tour"
+                            },
+                            {
+                                "id": 5,
+                                "ActivityItem": "Shopping"
+                            }
+                        ],
+                        "accommodation": [
+                            {
+                                "id": 3,
+                                "accommodationItem": "Hotel Colombo"
+                            }
+                        ],
+                        "mealPlan": [
+                            {
+                                "id": 2,
+                                "mealPlanItem": "Dinner"
+                            }
+                        ],
+                        "transferMode": [
+                            {
+                                "id": 4,
+                                "transferModeItem": "Car"
+                            }
+                        ],
+                        "itinerarySidePhotos": [
+                            {
+                                "id": 3,
+                                "IDPhoto4": {
+                                    "data": null
+                                },
+                                "IDPhoto3": {
+                                    "data": null
+                                },
+                                "IDPhoto2": {
+                                    "data": [
+                                        {
+                                            "id": 7,
+                                            "attributes": {
+                                                "name": "d2.jpeg",
+                                                "alternativeText": null,
+                                                "caption": null,
+                                                "width": 300,
+                                                "height": 168,
+                                                "formats": {
+                                                    "thumbnail": {
+                                                        "ext": ".jpeg",
+                                                        "url": "/uploads/thumbnail_d2_9c6e79f9cd.jpeg",
+                                                        "hash": "thumbnail_d2_9c6e79f9cd",
+                                                        "mime": "image/jpeg",
+                                                        "name": "thumbnail_d2.jpeg",
+                                                        "path": null,
+                                                        "size": 9.69,
+                                                        "width": 245,
+                                                        "height": 137,
+                                                        "sizeInBytes": 9691
+                                                    }
+                                                },
+                                                "hash": "d2_9c6e79f9cd",
+                                                "ext": ".jpeg",
+                                                "mime": "image/jpeg",
+                                                "size": 12.53,
+                                                "url": "/uploads/d2_9c6e79f9cd.jpeg",
+                                                "previewUrl": null,
+                                                "provider": "local",
+                                                "provider_metadata": null,
+                                                "createdAt": "2024-08-03T10:56:15.166Z",
+                                                "updatedAt": "2024-08-03T10:56:15.166Z"
+                                            }
+                                        }
+                                    ]
+                                },
+                                "IDPhoto1": {
+                                    "data": [
+                                        {
+                                            "id": 6,
+                                            "attributes": {
+                                                "name": "d1.jpeg",
+                                                "alternativeText": null,
+                                                "caption": null,
+                                                "width": 275,
+                                                "height": 183,
+                                                "formats": {
+                                                    "thumbnail": {
+                                                        "ext": ".jpeg",
+                                                        "url": "/uploads/thumbnail_d1_a0ed0aa816.jpeg",
+                                                        "hash": "thumbnail_d1_a0ed0aa816",
+                                                        "mime": "image/jpeg",
+                                                        "name": "thumbnail_d1.jpeg",
+                                                        "path": null,
+                                                        "size": 10.69,
+                                                        "width": 234,
+                                                        "height": 156,
+                                                        "sizeInBytes": 10690
+                                                    }
+                                                },
+                                                "hash": "d1_a0ed0aa816",
+                                                "ext": ".jpeg",
+                                                "mime": "image/jpeg",
+                                                "size": 13.81,
+                                                "url": "/uploads/d1_a0ed0aa816.jpeg",
+                                                "previewUrl": null,
+                                                "provider": "local",
+                                                "provider_metadata": null,
+                                                "createdAt": "2024-08-03T10:56:15.172Z",
+                                                "updatedAt": "2024-08-03T10:56:15.172Z"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": 4,
+                        "day": "day 2",
+                        "location": "Kandy",
+                        "description": "Visit the Temple of the Tooth and enjoy a cultural show.",
+                        "travelTime": "3 hour",
+                        "activities": [
+                            {
+                                "id": 6,
+                                "ActivityItem": "Temple Visit"
+                            },
+                            {
+                                "id": 7,
+                                "ActivityItem": "Cultural Show"
+                            }
+                        ],
+                        "accommodation": [
+                            {
+                                "id": 4,
+                                "accommodationItem": "Hotel Kandy"
+                            }
+                        ],
+                        "mealPlan": [
+                            {
+                                "id": 3,
+                                "mealPlanItem": "Breakfast"
+                            },
+                            {
+                                "id": 4,
+                                "mealPlanItem": "Dinner"
+                            }
+                        ],
+                        "transferMode": [
+                            {
+                                "id": 5,
+                                "transferModeItem": "Car"
+                            }
+                        ],
+                        "itinerarySidePhotos": [
+                            {
+                                "id": 4,
+                                "IDPhoto4": {
+                                    "data": null
+                                },
+                                "IDPhoto3": {
+                                    "data": null
+                                },
+                                "IDPhoto2": {
+                                    "data": [
+                                        {
+                                            "id": 9,
+                                            "attributes": {
+                                                "name": "d4.jpeg",
+                                                "alternativeText": null,
+                                                "caption": null,
+                                                "width": 275,
+                                                "height": 183,
+                                                "formats": {
+                                                    "thumbnail": {
+                                                        "ext": ".jpeg",
+                                                        "url": "/uploads/thumbnail_d4_23ebb7521c.jpeg",
+                                                        "hash": "thumbnail_d4_23ebb7521c",
+                                                        "mime": "image/jpeg",
+                                                        "name": "thumbnail_d4.jpeg",
+                                                        "path": null,
+                                                        "size": 14.04,
+                                                        "width": 234,
+                                                        "height": 156,
+                                                        "sizeInBytes": 14042
+                                                    }
+                                                },
+                                                "hash": "d4_23ebb7521c",
+                                                "ext": ".jpeg",
+                                                "mime": "image/jpeg",
+                                                "size": 18.66,
+                                                "url": "/uploads/d4_23ebb7521c.jpeg",
+                                                "previewUrl": null,
+                                                "provider": "local",
+                                                "provider_metadata": null,
+                                                "createdAt": "2024-08-03T10:56:15.176Z",
+                                                "updatedAt": "2024-08-03T10:56:15.176Z"
+                                            }
+                                        }
+                                    ]
+                                },
+                                "IDPhoto1": {
+                                    "data": [
+                                        {
+                                            "id": 8,
+                                            "attributes": {
+                                                "name": "d5.jpeg",
+                                                "alternativeText": null,
+                                                "caption": null,
+                                                "width": 335,
+                                                "height": 150,
+                                                "formats": {
+                                                    "thumbnail": {
+                                                        "ext": ".jpeg",
+                                                        "url": "/uploads/thumbnail_d5_d658bf17cb.jpeg",
+                                                        "hash": "thumbnail_d5_d658bf17cb",
+                                                        "mime": "image/jpeg",
+                                                        "name": "thumbnail_d5.jpeg",
+                                                        "path": null,
+                                                        "size": 8.77,
+                                                        "width": 245,
+                                                        "height": 110,
+                                                        "sizeInBytes": 8773
+                                                    }
+                                                },
+                                                "hash": "d5_d658bf17cb",
+                                                "ext": ".jpeg",
+                                                "mime": "image/jpeg",
+                                                "size": 15.25,
+                                                "url": "/uploads/d5_d658bf17cb.jpeg",
+                                                "previewUrl": null,
+                                                "provider": "local",
+                                                "provider_metadata": null,
+                                                "createdAt": "2024-08-03T10:56:15.202Z",
+                                                "updatedAt": "2024-08-03T12:23:10.699Z"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "includes": {
+                    "id": 1,
+                    "inclusion": [
+                        {
+                            "id": 1,
+                            "ListItem": "Accommodation"
+                        },
+                        {
+                            "id": 2,
+                            "ListItem": "Breakfast"
+                        }
+                    ],
+                    "exclusion": [
+                        {
+                            "id": 1,
+                            "ListItem": "Lunch"
+                        },
+                        {
+                            "id": 2,
+                            "ListItem": "Personal Expenses"
+                        }
+                    ],
+                    "bookInfo": {
+                        "id": 1,
+                        "bookingInformationItem": [
+                            {
+                                "type": "paragraph",
+                                "children": [
+                                    {
+                                        "text": "Booking must be made 14 days in advance.",
+                                        "type": "text"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "paragraph",
+                                "children": [
+                                    {
+                                        "text": " Full payment required at the time of booking",
+                                        "type": "text"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "CanselPol": {
+                        "id": 1,
+                        "cancellationPolicyItem": [
+                            {
+                                "type": "paragraph",
+                                "children": [
+                                    {
+                                        "text": "Free cancellation up to 7 days before departure.",
+                                        "type": "text"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "paragraph",
+                                "children": [
+                                    {
+                                        "text": "50% cancellation fee for cancellations made within 7 days",
+                                        "type": "text"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "pakageDetails": {
+                    "id": 2,
+                    "adults": [
+                        {
+                            "id": 4,
+                            "paxCount": "1",
+                            "rateAmount": "50"
+                        },
+                        {
+                            "id": 5,
+                            "paxCount": "2",
+                            "rateAmount": "100"
+                        },
+                        {
+                            "id": 6,
+                            "paxCount": "3",
+                            "rateAmount": "200"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "id": 4,
+                            "paxCount": "1",
+                            "rateAmount": "25"
+                        },
+                        {
+                            "id": 5,
+                            "paxCount": "2",
+                            "rateAmount": "50"
+                        },
+                        {
+                            "id": 6,
+                            "paxCount": "3",
+                            "rateAmount": "100"
+                        }
+                    ]
+                },
+                "otherdata": [
+                    {
+                        "id": 2,
+                        "destinaton": [
+                            {
+                                "id": 3,
+                                "destination": "matara",
+                                "rate": "10000"
+                            },
+                            {
+                                "id": 4,
+                                "destination": "galle",
+                                "rate": "40000"
+                            },
+                            {
+                                "id": 5,
+                                "destination": "Ella ",
+                                "rate": "5000"
+                            }
+                        ],
+                        "addCost": [
+                            {
+                                "id": 3,
+                                "name": "Extra Guide Service",
+                                "cost": "1500",
+                                "details": [
+                                    {
+                                        "type": "paragraph",
+                                        "children": [
+                                            {
+                                                "text": "Additional guide service per day",
+                                                "type": "text"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 4,
+                                "name": "Luxury Transport",
+                                "cost": "20000",
+                                "details": [
+                                    {
+                                        "type": "paragraph",
+                                        "children": [
+                                            {
+                                                "text": "Upgrade to luxury transport for the duration of the trip",
+                                                "type": "text"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "mapURL": {
+                    "id": 1,
+                    "startLocation": "Colombo",
+                    "endLocation": "Kandy",
+                    "HTMLmapUrl": [
+                        {
+                            "type": "paragraph",
+                            "children": [
+                                {
+                                    "text": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d506667.2108420822!2d79.91956297849126!3d7.202271332961642!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x3ae366266498acd3%3A0x411a3818a1e03c35!2sKandy!3m2!1d7.2905714999999995!2d80.6337262!4m5!1s0x3ae253d10f7a7003%3A0x320b2e4d32d3838d!2sColombo!3m2!1d6.9270786!2d79.861243!5e0!3m2!1sen!2slk!4v1722761191498!5m2!1sen!2slk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                } 
+            }
+        }
+
+
+
+
+//
+
+
+{
+    "Pkgtype": "multiday",
+    "duration": "7 days",
+    country,
+    category,
+    destination,
+    start location,
+    end location,
+    duraton,
+    "title": "Amazing Adventure Tour",
+    "description": "Experience an unforgettable adventure with our 7-day tour across multiple destinations.",
+    "coverPhoto": "https://example.com/images/cover.jpg",
+    "mainPhoto": "https://example.com/images/main.jpg",
+    "subPhotos": [
+      "https://example.com/images/sub1.jpg",
+      "https://example.com/images/sub2.jpg",
+      "https://example.com/images/sub3.jpg"
+    ],
+    "itinerary": {
+      "day1": {
+        "description": "Arrival and check-in.",
+        "activities": [
+          "Airport pickup",
+          "Hotel check-in",
+          "Welcome dinner"
+        ],
+        "accommodation": [
+                              {
+                                  "id": 3,
+                                  "accommodationItem": "Hotel Colombo"
+                              }
+                          ],
+                          "mealPlan": [
+                              {
+                                  "id": 2,
+                                  "mealPlanItem": "Dinner"
+                              }
+                          ],
+                          "transferMode": [
+                              {
+                                  "id": 4,
+                                  "transferModeItem": "Car"
+                              }
+                          ]
+      },
+      "day2": {
+        "description": "City tour and sightseeing.",
+        "activities": [
+          "Guided city tour",
+          "Visit the main attractions",
+          "Lunch at a local restaurant"
+        ],
+        "accommodation": [
+                              {
+                                  "id": 3,
+                                  "accommodationItem": "Hotel Colombo"
+                              }
+                          ],
+                          "mealPlan": [
+                              {
+                                  "id": 2,
+                                  "mealPlanItem": "Dinner"
+                              }
+                          ],
+                          "transferMode": [
+                              {
+                                  "id": 4,
+                                  "transferModeItem": "Car"
+                              }
+                          ]
+      }
+      // Add additional days as needed
+    },
+    Includes,
+    Excludes,
+    bookingInfo
+    cancellationPolicy
+  
+    "mapUrl": "https://example.com/maps/tour-route",
+    "packagPrices": {
+     
+      seasonType1
+  {
+  SeasonStartDate,
+  SeasonendDate,
+  adults[
+  {paxcount,rates},
+  {paxcount,rates},
+  ],
+  childs[
+  {paxcount,rates},
+  {paxcount,rates},
+  ],
+  additionalCost[
+  {costName,rate},
+  {costName,rate}
+  ],
+  PickupLocations[
+  {locationName,rate},
+  {locationName,rate},
+  {locationName,rate},
+  ]
+  },
+  seasonType2
+  {SeasonStartDate,
+   SeasonendDate,
+  adults[
+  {paxcount,rates},
+  {paxcount,rates},
+  ],
+  childs[
+  {paxcount,rates},
+  {paxcount,rates},
+  ],
+  additionalCost[
+  {costName,rate},
+  {costName,rate}
+  ],
+  PickupLocations[
+  {locationName,rate},
+  {locationName,rate},
+  {locationName,rate},
+  ]
+  }
+    },
+  
+    discountRates,
+    totalAmount,
+    DiscountAmount,
+    PickupLocations,
+    requestTobookingOption:'N',,
+    bookingStartDate,
+    BookingNotAvaibleOption :'N',
+    Configuration{
+      Created Date,
+      packageStartDate,
+      PackageEndDate,
+      Created By,
+      publishStatus (default publish,draft),   
+      
+    }
+  
+  }
+  
+  {
+    "Pkgtype": "multiday",
+    "duration": "7 days",
+    country,
+    category,
+    destination,
+    start location,
+    end location,
+    "title": "Amazing Adventure Tour",
+    "description": "Experience an unforgettable adventure with our 7-day tour across multiple destinations.",
+    "coverPhoto": "https://example.com/images/cover.jpg",
+    "mainPhoto": "https://example.com/images/main.jpg",
+    "subPhotos": [
+      "https://example.com/images/sub1.jpg",
+      "https://example.com/images/sub2.jpg",
+      "https://example.com/images/sub3.jpg"
+    ],
+    "itinerary": {
+      "day1": {
+        "description": "Arrival and check-in.",
+        "activities": [
+          "Airport pickup",
+          "Hotel check-in",
+          "Welcome dinner"
+        ],
+        "accommodation": [
+                              {
+                                  "id": 3,
+                                  "accommodationItem": "Hotel Colombo"
+                              }
+                          ],
+                          "mealPlan": [
+                              {
+                                  "id": 2,
+                                  "mealPlanItem": "Dinner"
+                              }
+                          ],
+                          "transferMode": [
+                              {
+                                  "id": 4,
+                                  "transferModeItem": "Car"
+                              }
+                          ]
+      },
+      "day2": {
+        "description": "City tour and sightseeing.",
+        "activities": [
+          "Guided city tour",
+          "Visit the main attractions",
+          "Lunch at a local restaurant"
+        ],
+        "accommodation": [
+                              {
+                                  "id": 3,
+                                  "accommodationItem": "Hotel Colombo"
+                              }
+                          ],
+                          "mealPlan": [
+                              {
+                                  "id": 2,
+                                  "mealPlanItem": "Dinner"
+                              }
+                          ],
+                          "transferMode": [
+                              {
+                                  "id": 4,
+                                  "transferModeItem": "Car"
+                              }
+                          ]
+      }
+      // Add additional days as needed
+    },
+    Includes,
+    Excludes,
+    bookingInfo,
+    cancellationPolicy
+  
+    "mapUrl": "https://example.com/maps/tour-route",
+    "packagPrices": {
+     
+      seasonType1
+  {
+  SeasonStartDate,
+  SeasonendDate,
+  adults[
+  {paxcount,rates},
+  {paxcount,rates},
+  ],
+  childs[
+  {paxcount,rates},
+  {paxcount,rates},
+  ],
+  additionalCost[
+  {costName,rate},
+  {costName,rate}
+  ],
+  PickupLocations[
+  {locationName,rate},
+  {locationName,rate},
+  {locationName,rate},
+  ]
+  },
+  seasonType2
+  {SeasonStartDate,
+   SeasonendDate,
+  adults[
+  {paxcount,rates},
+  {paxcount,rates},
+  ],
+  childs[
+  {paxcount,rates},
+  {paxcount,rates},
+  ],
+  additionalCost[
+  {costName,rate},
+  {costName,rate}
+  ],
+  PickupLocations[
+  {locationName,rate},
+  {locationName,rate},
+  {locationName,rate},
+  ]
+  }
+    },
+  
+    discountRates,
+    totalAmount,
+    DiscountAmount,
+    PickupLocations,
+    requestTobookingOption:'N',,
+    bookingStartDate,
+    BookingNotAvaibleOption :'N',
+    Configuration{
+      Created Date,
+      packageStartDate,
+      PackageEndDate,
+      Created By,
+      publishStatus (default publish,draft),   
+      
+    }
+    
+  }
+  
+
+
+  
