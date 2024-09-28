@@ -21,6 +21,9 @@ import TourTab from "views/tg_admin/TourTabInfo/TourTab";
 // Auth Imports
 import SignIn from "views/auth/SignIn";
 
+//farmer imports
+import FarmerDashbord from "views/farmer/FarmerDashbord";
+
 // Icon Imports
 import {
   MdHome,
@@ -125,14 +128,7 @@ const routes = [
     path: "profile",
     icon: <MdPerson className="h-6 w-6" />,
     component: <Profile />,
-  },
-  {
-    name: "Sign In",
-    layout: "/auth",
-    path: "sign-in",
-    icon: <MdLock className="h-6 w-6" />,
-    component: <SignIn />,
-  },
+  }
   
 ];
 export default routes;

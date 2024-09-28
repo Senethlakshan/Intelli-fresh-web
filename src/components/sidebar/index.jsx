@@ -2,7 +2,7 @@
 
 import { HiX } from "react-icons/hi";
 import Links from "./components/Links";
-import Logo from "../../assets/img/tg/tg1.png";
+import Logo from "../../assets/img/tg/ilogo.png";
 
 import SidebarCard from "components/sidebar/componentsrtl/SidebarCard";
 import routes from "routes.js";
